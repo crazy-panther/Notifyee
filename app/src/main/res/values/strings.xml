@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifyee</string>
+    <string name="Tasks">title-tasks</string>
+    <string name="tasks">Tasks</string>
+    <string name="save">SAVE</string>
+    <string name="newtask">New Task</string>
+</resources>
